@@ -1,0 +1,29 @@
+#home{
+  display: flex;
+  padding:  5px;
+}
+
+.divide{
+  margin: 5px;
+}
+
+body {
+  margin: 0 auto;
+  background-color:hotpink;
+  padding: 0 20px 20px 20px;
+}
+h1{
+text-align: center;
+}
+h2{
+  color: aquamarine;
+}
+
+.名前{
+  background-color: #e0dddd;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid #afadad;
+    border-radius: 5px;
+    padding: 5px;
+
+}
